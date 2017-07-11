@@ -1,0 +1,3 @@
+docker create -i -t jenkins
+code--------
+jenkins start -a -i code ------
